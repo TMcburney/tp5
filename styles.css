@@ -1,0 +1,29 @@
+h1 {
+  font-family: "Lucida Handwriting"; 
+  background-color: #a78254;
+  color: #ffe4be;
+}
+
+h4 {
+  margin-bottom: 0;
+  font-family: "Lucida Handwriting"; 
+  background-color: #a78254;
+  color: #ffe4be;
+}
+
+ul, ol, p, li {
+  margin-top: 0;
+  font-family: "Lucida Handwriting"; 
+  color: #a78254;
+  font-size: 18px;
+  background-color: #ffe4be;
+}
+
+.copyright {
+  font-family: Arial;
+  font-size: 11px;
+  font-style: italic;
+} 
+body{
+  background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1751192.jpg&w=596&h=596&c=sc&poi=face&q=85");
+}
